@@ -2,14 +2,13 @@
 
 ## Introduction
 
-My First React App is a simple application built with React.js. It allows users to search for movies using the OMDb API and display the results on the screen.
+wAMovies is a simple application built with React.js. It allows users to search for movies using the OMDb API and display the results on the screen.
 
 ## Prerequisites
 
 Before running this application, make sure you have the following installed:
 
 - Node.js
-- npm (Node Package Manager)
 
 # Installation
 
